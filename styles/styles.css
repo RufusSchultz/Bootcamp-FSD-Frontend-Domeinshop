@@ -20,6 +20,7 @@ Table of Contents:
 
 *{
     box-sizing: border-box;
+    margin: 0;
 }
 
 ::placeholder{
